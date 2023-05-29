@@ -11,7 +11,7 @@ Provides an option to play again.
 # usage
 To use this code, follow these steps:
 Include the JavaScript code in your HTML file.
-Ensure that you have the following HTML elements in your file:
+Initialize the game by executing the code.
 # how to play
 When the game starts, a random secret number between 1 and 20 is generated.
 Enter your guess in the input field and click the "Check!" button.
